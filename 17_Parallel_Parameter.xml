@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="methods">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="TestNG.Example17_ParameterTest"/>
+      <class name="Project_Selenium.Example17_ParameterTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

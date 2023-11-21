@@ -3,17 +3,15 @@ package Project_Selenium;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.support.ui.Select;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
-import io.github.bonigarcia.wdm.managers.ChromeDriverManager;
-import io.opentelemetry.api.trace.Span;
 
 public class Automation {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		// chrome
 	//	WebDriverManager.chromedriver().setup();
 	//	WebDriver demo = new ChromeDriver();
